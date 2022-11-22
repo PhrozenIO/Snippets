@@ -15,6 +15,7 @@
 * Delphi
 	* [SelectFilesOnExplorer](Delphi/SelectFilesOnExplorer/)
 	* [UntEnumDLLExport.pas](Delphi/UntEnumDLLExport.pas)
+	* [GetProcAddress_ALT_Example](Delphi/GetProcAddress_ALT_Example.pas)
 	
 * Python
 	* [ExtractStrings.py](Python/ExtractStrings.py)
