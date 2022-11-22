@@ -14,6 +14,7 @@
 
 * Delphi
 	* [SelectFilesOnExplorer](Delphi/SelectFilesOnExplorer/)
+	* [UntEnumDLLExport.pas](Delphi/UntEnumDLLExport.pas)
 	
 * Python
 	* [ExtractStrings.py](Python/ExtractStrings.py)
