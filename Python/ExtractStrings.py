@@ -9,7 +9,7 @@ from itertools import chain
 
 
 def extract_strings(file, min_length=4, unicode=False):
-	printable_ascii = b"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!\"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~ \t"
+	printable_ascii = b"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!\"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~ "
 
 	if unicode:
 		char_size = 2
@@ -30,7 +30,7 @@ def extract_strings(file, min_length=4, unicode=False):
 				string += b[0].to_bytes(1, byteorder='big')						
 			else:					
 				if len(string) >= min_length:						
-					yield offset, string.decode('ascii').replace("\t", "")
+					yield offset, string.decode('ascii')
 
 				string = b""
 				offset = cursor			
