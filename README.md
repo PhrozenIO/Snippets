@@ -19,6 +19,7 @@
 	
 * Python
 	* [ExtractStrings.py](Python/ExtractStrings.py)
+	* [malinx.py](Python/malinx.py)
 
 ---
 
