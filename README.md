@@ -37,6 +37,9 @@ Cette clause de non-responsabilité est sujette à modification sans préavis et
 	* [ExtractStrings.py](Python/ExtractStrings.py)
 	* [malinx.py](Python/malinx.py)
 
+* CSharp (C#)
+	* [CheckExplorerExeExtensions.cs](CS/CheckExplorerExeExtensions.cs)
+
 ---
 
 ### Unprotect
