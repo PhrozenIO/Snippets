@@ -32,6 +32,11 @@ Cette clause de non-responsabilité est sujette à modification sans préavis et
 	* [SelectFilesOnExplorer](Delphi/SelectFilesOnExplorer/)
 	* [UntEnumDLLExport.pas](Delphi/UntEnumDLLExport.pas)
 	* [GetProcAddress_ALT_Example](Delphi/GetProcAddress_ALT_Example.pas)
+	* [GetProcessName_Method1](Delphi/GetProcessName_Method1.pas)
+	* [GetProcessName_Method2](Delphi/GetProcessName_Method2.pas)
+	* [GetProcessName_Method2_Remote](Delphi/GetProcessName_Method2_Remote.pas)
+	* [GetProcessName_Method3](Delphi/GetProcessName_Method3.pas)
+	* [GetProcessName_Method4](Delphi/GetProcessName_Method4.pas)
 	
 * Python
 	* [ExtractStrings.py](Python/ExtractStrings.py)
