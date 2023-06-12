@@ -74,6 +74,7 @@ Cette clause de non-responsabilité est sujette à modification sans préavis et
 	* [SuspendThread](Unprotect/Delphi/SuspendThread.dpr)
 	* [FindWindowAPI](Unprotect/Delphi/FindWindowAPI.dpr)
 	* [UntPEBDebug](Unprotect/Delphi/UntPEBDebug.pas)
+	* [FtpC2](Unprotect/Delphi/FtpC2.pas)
 
 
 * C#
