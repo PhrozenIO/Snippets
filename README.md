@@ -75,6 +75,7 @@ Cette clause de non-responsabilité est sujette à modification sans préavis et
 	* [FindWindowAPI](Unprotect/Delphi/FindWindowAPI.dpr)
 	* [UntPEBDebug](Unprotect/Delphi/UntPEBDebug.pas)
 	* [FtpC2](Unprotect/Delphi/FtpC2.pas)
+	* [SMB / Named Pipes](Unprotect/CS/NamedPipes_SMB.cs)
 
 
 * C#
