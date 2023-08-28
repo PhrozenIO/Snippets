@@ -75,7 +75,8 @@ Cette clause de non-responsabilité est sujette à modification sans préavis et
 	* [FindWindowAPI](Unprotect/Delphi/FindWindowAPI.dpr)
 	* [UntPEBDebug](Unprotect/Delphi/UntPEBDebug.pas)
 	* [FtpC2](Unprotect/Delphi/FtpC2.pas)
-	* [SMB / Named Pipes](Unprotect/CS/NamedPipes_SMB.cs)
+	* [SMB / Named Pipes](Unprotect/Delphi/NamedPipes_SMB.pas)
+	
 
 
 * C#
@@ -84,6 +85,7 @@ Cette clause de non-responsabilité est sujette à modification sans préavis et
 	* [DetectMacAddress](Unprotect/CS/DetectMacAddress.cs)
 	* [NtQueryInformationProcess](Unprotect/CS/NtQueryInformationProcess.cs)
 	* [FtpC2](Unprotect/CS/FtpC2.cs)
+	* [SMB / Named Pipes](Unprotect/CS/NamedPipes_SMB.cs)
 
 
 * Python
