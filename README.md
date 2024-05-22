@@ -73,3 +73,6 @@
 * Python
 	* [CodeCaveHelper](Unprotect/Python/CodeCaveHelper.py)
 	* [FindWindow](Unprotect/Python/FindWindow.py)
+
+ * FASM32
+	* [APC Injection](Unprotect/FASM/x32/apc_injection.asm)
