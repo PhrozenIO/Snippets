@@ -9,6 +9,9 @@
 [Visit Official Malware Gallery Website](https://www.malwaregallery.com)
 
 * Delphi
+	* [Search For Registry Keys / Values](Malware%20Gallery/search-for-registry-keys-values.pas)
+	* [Dump Process Memory Via MiniDumpWriteDump](Malware%20Gallery/dump-process-memory-via-minidumpwritedump.pas)
+	* [Dump Process Memory Via ReadProcessMemory](Malware%20Gallery/dump-process-memory-via-readprocessmemory.pas)
 	* [Enumerate Files Via FindFirstFile / FindNextFile](Malware%20Gallery/enumerate-files-via-FindFirstFile-FindNextFile.pas)
 	* [Search For Files Via FindFirstFile / FindNextFile](Malware%20Gallery/search-for-files-via-FindFirstFile-FindNextFile.pas)
 	* [Enumerate Process Modules Via CreateToolhelp32Snapshot](Malware%20Gallery/enumerate-process-modules-via-CreateToolhelp32Snapshot.pas)
